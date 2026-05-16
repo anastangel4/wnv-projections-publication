@@ -1,0 +1,15 @@
+Package: MVSE
+Type: Package
+Title: (M)osquito-borne (V)iral (S)uitability (E)stimator
+Version: 1.0.1
+Author: Jose Lourenco and Uri Obolski
+Maintainer: The package maintainer <jose.lourenco@zoo.ox.ac.uk>
+Description: Estimator of climate-dependent, mosquito-borne viral suitability index.
+Depends: R (>= 3.4), pbapply, genlasso, scales
+License: GPL v3.0
+Encoding: UTF-8
+LazyData: true
+Imports: pbapply, genlasso, scales
+RoxygenNote: 7.1.1
+NeedsCompilation: no
+Packaged: 2021-01-21 12:50:06 UTC; JL3239
